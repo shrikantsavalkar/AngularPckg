@@ -69,6 +69,7 @@
     <Content Include="packages.config" />
     <Content Include="node_modules.rar" />
     <Content Include="node_modules_1.rar" />
+    <Content Include="NewFolder1\node_modules.rar" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
